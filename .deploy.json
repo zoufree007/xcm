@@ -1,0 +1,12 @@
+{ 
+  "title": "小财猫",
+  "lang": "Chinese",
+  "companyId":"5d26f18ccf498bfb972907e5",
+  "appId":"5d6cd2bb4e6dd6b83926d853",
+  "zaloAppId":"4190796830297894592",
+  "zaloKit":"OBj1VvG4DcKFa1CxQnwE",
+  "zaloCallBackUrl":"https://www.cashbest.top/personal/zalo",
+  "less": {
+    "@blue": "#FFCB0A"
+  }
+}

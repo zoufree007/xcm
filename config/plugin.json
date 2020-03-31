@@ -1,0 +1,36 @@
+{
+  "@html5/not-found": {
+    "enable": false
+  },
+  "@html5/vix-layout": {
+    "enable": true,
+    "path":"../plugins/vix-layout"
+  },
+  "@wox/vuex": {
+    "enable": true
+  },
+  "@html5/spark-common": {
+    "enable": true,
+    "path":"../plugins/spark-common"
+  },
+  "@html5/spark-login": {
+    "enable": true,
+    "path":"../plugins/h5-login"
+  },
+  "@html5/spark-i18n": {
+    "enable": true,
+    "path":"../plugins/spark-i18n"
+  },
+  "@html5/natix": {
+    "enable": true,
+    "path":"../plugins/natix.js"
+  },
+  "@html5/vix-storage": {
+    "enable": true,
+    "path":"../plugins/vix-storage"
+  },
+  "@html5/spark-cert": {
+    "enable": true,
+    "path":"../plugins/h5-cer"
+  }
+}

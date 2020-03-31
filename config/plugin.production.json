@@ -1,0 +1,11 @@
+{
+  "@html5/spark-common": {
+    "prefix": "https://h5.rdong.ltd"
+  },
+  "@html5/vix-storage": {
+    "user": "local"
+  },
+  "@html5/spark-cert": {
+    "spark_privacy_policy_url": "http://www.cashbest.top/cashbest_policy.html"
+  }
+}

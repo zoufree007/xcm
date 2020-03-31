@@ -1,0 +1,26 @@
+{
+  "name": "@html5/spark-h5-login",
+  "version": "1.0.0",
+  "description": "The description of this project",
+  "main": "commander.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/woxjs/plugin.git"
+  },
+  "keywords": [
+    "plugin",
+    "wox",
+    "template"
+  ],
+  "author": "cevio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woxjs/plugin/issues"
+  },
+  "homepage": "https://github.com/woxjs/plugin#readme",
+  "plugin": {
+    "dependencies": [
+      "@html5/spark-common"
+    ]
+  }
+}

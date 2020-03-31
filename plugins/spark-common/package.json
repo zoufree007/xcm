@@ -1,0 +1,29 @@
+{
+  "name": "@html5/spark-common",
+  "version": "1.0.23",
+  "description": "",
+  "main": "commander.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@git.mifaqianbao.cn:8090/spark/spark-common.git"
+  },
+  "keywords": [
+    "plugin",
+    "wox",
+    "request"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://git.mifaqianbao.cn:8090/spark/spark-common/issues"
+  },
+  "homepage": "http://git.mifaqianbao.cn:8090/spark/spark-common",
+  "plugin": {
+    "dependencies": [
+      "@wox/vuex"
+    ]
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

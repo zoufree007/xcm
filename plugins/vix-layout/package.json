@@ -1,0 +1,31 @@
+{
+  "name": "@html5/vix-layout",
+  "version": "2.1.16",
+  "description": "the layout of wox",
+  "author": "shenyunjie",
+  "license": "ISC",
+  "peerDependencies": {
+    "vue": "^2.6.2",
+    "@wox/vuex": "^2.0.1"
+  },
+  "dependencies": {
+    "@component/flex": "^1.0.0",
+    "@html5/natix": "^1.0.18",
+    "amfe-flexible": "^2.2.1",
+    "normalize.css": "^8.0.1",
+    "vant": "^1.6.19"
+  },
+  "plugin": {
+    "dependencies": [
+      "@wox/vuex"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@git.mifaqianbao.cn:components/vix-layout.git"
+  },
+  "bugs": {
+    "url": "http://git.mifaqianbao.cn:8090/components/vix-layout/issues"
+  },
+  "homepage": "http://git.mifaqianbao.cn:8090/components/vix-layout"
+}

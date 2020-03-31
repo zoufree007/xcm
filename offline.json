@@ -1,0 +1,7 @@
+{
+  "spark": {
+    "type": "offline",
+    "file": "index.html",
+    "path": "/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "@html5/spark-common": {
+    "prefix": "http://dola-web.microspark.org"
+  },
+  "@html5/vix-storage": {
+    "user": "local"
+  },
+  "@html5/spark-cert": {
+    "spark_privacy_policy_url": "https://dev.microspark.org/spark_privacy_policy.html"
+  }
+}

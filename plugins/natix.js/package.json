@@ -1,0 +1,11 @@
+{
+  "name": "@html5/natix",
+  "version": "1.0.18",
+  "description": "The sdk of hybrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shenyunjie",
+  "license": "MIT"
+}
