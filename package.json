@@ -38,7 +38,7 @@
     "events": "^3.0.0",
     "fundebug-vue": "0.0.1",
     "normalize.css": "^8.0.1",
-    "vant": "^1.6.21",
+    "vant": "^2.5.8",
     "vue": "^2.6.8"
   },
   "postcss": {
